@@ -1,8 +1,8 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf should I do", "where do I start", "I'm stuck",
-  "what's next", "help me prioritize", "I don't know what to do", "triage this", or needs guidance
-  on what to tackle first when facing multiple issues or a confusing codebase state.
+  Triage everything that's broken and deliver a prioritized action plan. Use when the user asks
+  "wtf should I do", "where do I start", "I'm stuck", "what's next", "help me prioritize",
+  "I don't know what to do", or "triage this".
 allowed-tools: Read, Glob, Grep, Bash
 ---
 

@@ -1,8 +1,7 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf did you say", "what just happened", "summarize
-  what you did", "catch me up", "tldr", "what did you do", or wants a concise summary of recent
-  verbose agent activity.
+  TL;DR summary of recent verbose agent activity. Use when the user asks "wtf did you say",
+  "what just happened", "summarize what you did", "catch me up", "tldr", or "what did you do".
 allowed-tools: Read
 ---
 

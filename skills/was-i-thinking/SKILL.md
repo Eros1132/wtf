@@ -1,8 +1,8 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf was I thinking", "self-review", "check my
-  diff", "look at what I changed", "pre-PR review", "review my commits", or wants a brutally
-  honest review of their own recent diffs or commits before opening a PR.
+  Brutally honest review of your own recent diffs and commits before opening a PR. Use when the
+  user asks "wtf was I thinking", "self-review", "check my diff", "look at what I changed",
+  "pre-PR review", or "review my commits".
 allowed-tools: Read, Glob, Grep, Bash
 ---
 

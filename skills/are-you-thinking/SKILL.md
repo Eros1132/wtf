@@ -1,8 +1,8 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf are you thinking", "that's wrong", "push back",
-  "are you sure", "that doesn't sound right", "re-examine", "double check that", or wants to
-  challenge something the agent just said or recommended.
+  Challenge something the agent just said and force a genuine re-examination. Use when the user
+  asks "wtf are you thinking", "that's wrong", "push back", "are you sure", "that doesn't sound
+  right", "re-examine", or "double check that".
 allowed-tools: Read, Glob, Grep, Bash
 ---
 

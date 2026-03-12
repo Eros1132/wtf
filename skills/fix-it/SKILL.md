@@ -1,8 +1,7 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf fix it", "just fix it", "make it work",
-  "fix this", "stop talking and fix it", or wants the agent to skip the diagnosis monologue and
-  go straight to making the current problem go away.
+  Skip the diagnosis monologue and go straight to fixing the current problem. Use when the user
+  says "wtf fix it", "just fix it", "make it work", "fix this", or "stop talking and fix it".
 allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 

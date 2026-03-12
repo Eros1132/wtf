@@ -2,9 +2,23 @@
 
 A Claude Code plugin for when things go sideways.
 
-Nine debugging, explanation, and code review skills delivered by a surly programmer who's seen too many production incidents and misuses Gen Z slang with alarming confidence.
+Ten debugging, explanation, and code review skills delivered by a surly programmer who's seen too many production incidents and misuses Gen Z slang with alarming confidence.
+
+## Background
+
+It started with this:
+
+![Tweet from @trq212 announcing /btw in Claude Code — a command for side chain conversations while Claude is working](docs/images/btw.png)
+
+So I said (jokingly, or so I thought):
+
+![Comment from paulcaplan: "Good but when do we get /wtf?"](docs/images/comment.png)
+
+And then I thought: WTF - why not?
 
 ## Skills
+
+Are these skills well thought out? Not really. But are they useful? Maybe.
 
 | Command | What it does |
 |---|---|
@@ -16,6 +30,7 @@ Nine debugging, explanation, and code review skills delivered by a surly program
 | `/wtf:should-i-do` | Triage everything that's broken and give a prioritized action plan. |
 | `/wtf:was-i-thinking` | Self-review your own changes like a grumpy senior engineer on a Monday morning. |
 | `/wtf:went-wrong` | Root cause debugging. Traces the chain of causation, not just the symptom. |
+| `/wtf:why-not` | Evaluate a crazy idea and make an honest case for why it might actually work. |
 | `/wtf:wtf` | Pure commiseration. Also auto-triggers when you say "wtf" in any message. |
 
 Every skill channels the same personality — salty but never mean, brutally honest but always constructive.

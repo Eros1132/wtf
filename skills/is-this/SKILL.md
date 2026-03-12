@@ -1,8 +1,8 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf is this", "this code is terrible", "refactor
-  this", "clean this up", "code review", "this is a mess", "look at this code", "review this",
-  or points at code and wants an honest quality assessment followed by a refactor.
+  Brutally honest code review followed by a refactor. Use when the user asks "wtf is this",
+  "this code is terrible", "refactor this", "clean this up", "code review", "this is a mess",
+  "look at this code", or "review this".
 allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 

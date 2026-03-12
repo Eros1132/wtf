@@ -1,8 +1,8 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf went wrong", "why is this broken", "debug this",
-  "what happened", "why did this fail", "trace this error", encounters an error, stack trace,
-  test failure, or build failure and needs root cause analysis.
+  Root cause analysis that traces the chain of causation, not just the symptom. Use when the user
+  asks "wtf went wrong", "why is this broken", "debug this", "what happened", "why did this fail",
+  "trace this error", or encounters an error, stack trace, test failure, or build failure.
 allowed-tools: Read, Glob, Grep, Bash
 ---
 

@@ -1,8 +1,8 @@
 ---
 description: >
-  This skill should be used when the user asks "wtf are you doing", "what's the plan", "explain
-  yourself", "where are you going with this", "stop and explain", "what are you working on",
-  or wants to interrupt the agent mid-task to understand what it's doing and why.
+  Interrupt mid-task and demand an explanation of what the agent is doing and why. Use when the
+  user asks "wtf are you doing", "what's the plan", "explain yourself", "where are you going
+  with this", "stop and explain", or "what are you working on".
 allowed-tools: Read, Bash
 ---
 
