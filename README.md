@@ -8,11 +8,11 @@ Ten debugging, explanation, and code review skills delivered by a surly programm
 
 It started with this:
 
-![Tweet from @trq212 announcing /btw in Claude Code — a command for side chain conversations while Claude is working](docs/images/btw-v2.png)
+![Tweet from @trq212 announcing /btw in Claude Code — a command for side chain conversations while Claude is working](docs/images/btw-v3.png)
 
 So I said (jokingly, or so I thought):
 
-![Comment from paulcaplan: "Good but when do we get /wtf?"](docs/images/comment-v2.png)
+![Comment from paulcaplan: "Good but when do we get /wtf?"](docs/images/comment-v3.png)
 
 And then I thought: WTF - why not?
 
